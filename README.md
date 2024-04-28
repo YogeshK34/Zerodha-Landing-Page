@@ -4,7 +4,7 @@ This is a clone of the Zerodha landing page created using HTML, CSS, and JavaScr
 
 ## Preview
 
-[[[View Live Preview]https://zerodha-landing-page-sigma.vercel.app/
+[View Live Preview] (https://zerodha-landing-page-sigma.vercel.app/)
 
 ## Features
 
